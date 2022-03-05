@@ -1,0 +1,73 @@
+@font-face
+{
+     font-family: 'open_sanssemibold_italic';
+    src: url('OpenSans-SemiboldItalic-webfont.eot');
+    src: url('OpenSans-SemiboldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans-SemiboldItalic-webfont.woff2') format('woff2'),
+         url('OpenSans-SemiboldItalic-webfont.woff') format('woff'),
+         url('OpenSans-SemiboldItalic-webfont.ttf') format('truetype'),
+         url('OpenSans-SemiboldItalic-webfont.svg#open_sanssemibold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1 /* Utilisation de la police qu'on vient de définir sur les titres */
+{
+    font-family: 'open_sanssemibold_italic', serif;
+
+}
+}
+header
+{
+
+    display:  flex;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    width: 500px;
+}
+
+header img
+{
+    margin-right: 20px;
+}
+
+nav
+{
+    width:  200px;
+}
+
+.content_page
+{
+    display: flex;
+  
+}
+
+footer
+{
+    text-align: center;
+}
+nav
+{
+    
+
+}
+body
+{
+   font-family: sans-serif ;
+   background: lightcyan;
+   
+
+}
+h1
+{
+    font-size: 2.8em;   
+    text-decoration: blink;
+}
+
+
+
+.text
+{
+    text-align: justify;
+}
