@@ -1,8 +1,0 @@
--Un menu vertical à gauche
--Un header
--Un footer
--< Ne change jamais d'une page à l'autre
--Du js (carte blanche)
--Apparence d'un site (vrai, même si c'est moche)
--Déployé (GitHub,netifly)
--Dead line 26/02/2022
